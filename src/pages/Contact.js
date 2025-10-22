@@ -105,10 +105,10 @@ const Contact = () => {
                                                     <div className="text-zinc-600 box-border caret-transparent leading-6 break-words">
                                                         <p className="box-border caret-transparent break-words">
                                                             <a
-                                                                href="mailto:noblecuts@gmail.com"
+                                                                href="mailto:info@noble-cuts.com"
                                                                 className="text-pink-700 box-border caret-transparent hover:text-pink-900"
                                                             >
-                                                                noblecuts@gmail.com
+                                                                info@noble-cuts.com
                                                             </a>
                                                         </p>
                                                     </div>

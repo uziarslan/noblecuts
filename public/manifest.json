@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Noble Cuts",
+  "name": "Noble Cuts Meat Packers",
+  "description": "Premium local meats and custom processing in Kawartha Lakes, Ontario",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +21,11 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#ad1457",
+  "background_color": "#ffffff",
+  "categories": [
+    "food",
+    "business",
+    "shopping"
+  ]
 }

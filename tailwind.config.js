@@ -6,7 +6,7 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                'josefin': ['Josefin Slab', 'serif'],
+                'josefin_slab': ['Josefin Slab', 'serif'],
                 'cantarell': ['Cantarell', 'sans-serif'],
             },
         },
