@@ -67,12 +67,12 @@ const Contact = () => {
                                                     <div className="text-zinc-600 box-border caret-transparent leading-6 break-words">
                                                         <p className="box-border caret-transparent break-words">
                                                             <span className="box-border caret-transparent break-words">
-                                                                18619 Simcoe St
+                                                                2133 Little Britain Road
                                                             </span>
                                                         </p>
                                                         <p className="box-border caret-transparent break-words">
                                                             <span className="box-border caret-transparent break-words">
-                                                                Kawartha Lakes, Ontario, Canada
+                                                                Lindsay, Ontario, K9V 4R2
                                                             </span>
                                                         </p>
                                                     </div>
@@ -87,10 +87,10 @@ const Contact = () => {
                                                     <div className="text-zinc-600 box-border caret-transparent leading-6 break-words">
                                                         <p className="box-border caret-transparent break-words">
                                                             <a
-                                                                href="tel:437990-9147"
+                                                                href="tel:7053202084"
                                                                 className="text-pink-700 box-border caret-transparent hover:text-pink-900"
                                                             >
-                                                                (437) 990-9147
+                                                                (705) 320-2084
                                                             </a>
                                                         </p>
                                                     </div>
