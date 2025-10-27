@@ -5,7 +5,7 @@ export const DesktopHeader = () => {
     return (
         <div className="relative w-full">
             {/* Mobile Header */}
-            <div className="items-center box-border caret-transparent flex justify-between w-full py-6 md:hidden">
+            <div className="items-center box-border caret-transparent flex justify-between w-full py-6 px-6 md:hidden">
                 <Link
                     title="Noble Cuts"
                     to="/"
