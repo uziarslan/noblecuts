@@ -83,10 +83,10 @@ export const Header = () => {
                                     <div className="box-border caret-transparent min-h-[auto] min-w-[auto] md:min-h-0 md:min-w-0">
                                         <p className="text-zinc-600 text-[22px] box-border caret-transparent inline-block leading-[33px] break-words mb-3">
                                             <a
-                                                href="tel://7058213151"
+                                                href="tel:7053202084"
                                                 className="box-border caret-transparent max-w-full break-words"
                                             >
-                                                (705) 821-3151
+                                                (705) 320-2084
                                             </a>
                                         </p>
                                     </div>
