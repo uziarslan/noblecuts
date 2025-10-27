@@ -31,7 +31,7 @@ export const Header = () => {
                                     <div className="box-border caret-transparent max-w-full min-h-0 min-w-0 w-full md:min-h-[auto] md:min-w-[auto] md:w-[1160px]">
                                         <div className="relative box-border caret-transparent leading-[19.2px] max-w-full break-words">
                                             <h1
-                                                className="text-pink-700 text-[44px] font-semibold box-border caret-transparent inline-block leading-[52.8px] max-w-full break-words mb-2 font-josefin_slab"
+                                                className="text-noble-brown text-[44px] font-semibold box-border caret-transparent inline-block leading-[52.8px] max-w-full break-words mb-2 font-josefin_slab"
                                             >
                                                 Welcome to
                                                 Noble Cuts
@@ -42,7 +42,7 @@ export const Header = () => {
                                     <div className="text-zinc-900 text-[22px] box-border caret-transparent leading-[27.5px] min-h-0 min-w-0 break-words md:min-h-[auto] md:min-w-[auto]">
                                         <p className="box-border caret-transparent break-words">
                                             <span className="box-border caret-transparent break-words">
-                                                Always Local. The way meat was intended.
+                                                Premium Quality. Crafted with care and tradition.
                                             </span>
                                         </p>
                                     </div>
@@ -51,7 +51,7 @@ export const Header = () => {
                                             <div className="box-border caret-transparent max-w-full min-h-0 min-w-0 md:min-h-[auto] md:min-w-[auto]">
                                                 <a
                                                     href="/contact"
-                                                    className="relative text-white text-xs font-bold items-center bg-pink-700 box-border caret-transparent inline-flex justify-center max-w-full min-h-14 break-words uppercase w-full px-10 py-2 rounded-[48px] md:text-sm md:w-auto hover:bg-pink-600 gap-2"
+                                                    className="relative text-white text-xs font-bold items-center bg-noble-brown box-border caret-transparent inline-flex justify-center max-w-full min-h-14 break-words uppercase w-full px-10 py-2 rounded-[48px] md:text-sm md:w-auto hover:bg-noble-brown-dark gap-2"
                                                 >
                                                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
@@ -62,7 +62,7 @@ export const Header = () => {
                                             <div className="box-border caret-transparent max-w-full min-h-0 min-w-0 md:min-h-[auto] md:min-w-[auto]">
                                                 <a
                                                     href="tel://7053202084"
-                                                    className="relative text-white text-xs font-bold items-center bg-pink-700 box-border caret-transparent inline-flex justify-center max-w-full min-h-14 break-words uppercase w-full px-10 py-2 rounded-[48px] md:text-sm md:w-auto hover:bg-pink-600 gap-2"
+                                                    className="relative text-white text-xs font-bold items-center bg-noble-brown box-border caret-transparent inline-flex justify-center max-w-full min-h-14 break-words uppercase w-full px-10 py-2 rounded-[48px] md:text-sm md:w-auto hover:bg-noble-brown-dark gap-2"
                                                 >
                                                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
@@ -93,7 +93,7 @@ export const Header = () => {
                                     <div className="box-border caret-transparent max-w-full min-h-[auto] min-w-[auto] w-full md:min-h-0 md:min-w-0 md:w-[1160px]">
                                         <div className="relative box-border caret-transparent leading-[19.2px] max-w-full break-words">
                                             <h1
-                                                className="text-pink-700 text-[32px] font-semibold box-border caret-transparent inline-block leading-[38.4px] max-w-full break-words mb-2 font-josefin_slab md:text-[40px] md:leading-[48px]"
+                                                className="text-noble-brown text-[32px] font-semibold box-border caret-transparent inline-block leading-[38.4px] max-w-full break-words mb-2 font-josefin_slab md:text-[40px] md:leading-[48px]"
                                             >
                                                 Welcome to Noble Cuts
                                             </h1>
@@ -102,7 +102,7 @@ export const Header = () => {
                                     <div className="text-zinc-900 text-[22px] box-border caret-transparent leading-[27.5px] min-h-[auto] min-w-[auto] break-words md:min-h-0 md:min-w-0">
                                         <p className="box-border caret-transparent break-words">
                                             <span className="box-border caret-transparent break-words">
-                                                Always Local. The way meat was intended.
+                                                Premium Quality. Crafted with care and tradition.
                                             </span>
                                         </p>
                                     </div>
@@ -111,7 +111,7 @@ export const Header = () => {
                                             <div className="box-border caret-transparent max-w-full min-h-[auto] min-w-[auto] md:min-h-0 md:min-w-[auto]">
                                                 <a
                                                     href="/contact"
-                                                    className="relative text-white text-xs font-bold items-center bg-pink-700 box-border caret-transparent inline-flex justify-center max-w-full min-h-14 break-words uppercase w-full px-10 py-2 rounded-[48px] md:text-sm md:w-auto hover:bg-pink-600 gap-2"
+                                                    className="relative text-white text-xs font-bold items-center bg-noble-brown box-border caret-transparent inline-flex justify-center max-w-full min-h-14 break-words uppercase w-full px-10 py-2 rounded-[48px] md:text-sm md:w-auto hover:bg-noble-brown-dark gap-2"
                                                 >
                                                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
@@ -122,7 +122,7 @@ export const Header = () => {
                                             <div className="box-border caret-transparent max-w-full min-h-[auto] min-w-[auto] md:min-h-0 md:min-w-[auto]">
                                                 <a
                                                     href="tel://7053202084"
-                                                    className="relative text-white text-xs font-bold items-center bg-pink-700 box-border caret-transparent inline-flex justify-center max-w-full min-h-14 break-words uppercase w-full px-10 py-2 rounded-[48px] md:text-sm md:w-auto hover:bg-pink-600 gap-2"
+                                                    className="relative text-white text-xs font-bold items-center bg-noble-brown box-border caret-transparent inline-flex justify-center max-w-full min-h-14 break-words uppercase w-full px-10 py-2 rounded-[48px] md:text-sm md:w-auto hover:bg-noble-brown-dark gap-2"
                                                 >
                                                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />

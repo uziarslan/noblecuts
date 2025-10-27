@@ -35,12 +35,21 @@ export const ServiceCard = (props) => {
                 </p>
             </div>
             <div className="box-border caret-transparent max-w-full">
-                <a
-                    href={props.linkUrl}
-                    className="relative text-white text-xs font-bold items-center bg-pink-700 box-border caret-transparent inline-flex justify-center max-w-full min-h-14 break-words uppercase w-full px-10 py-2 rounded-[48px] md:text-sm md:w-auto hover:bg-pink-600"
-                >
-                    {props.linkText}
-                </a>
+                {props.linkUrl === "#" ? (
+                    <button
+                        disabled
+                        className="relative text-white text-xs font-bold items-center bg-gray-400 box-border caret-transparent inline-flex justify-center max-w-full min-h-14 break-words uppercase w-full px-10 py-2 rounded-[48px] md:text-sm md:w-auto cursor-not-allowed opacity-60"
+                    >
+                        {props.linkText}
+                    </button>
+                ) : (
+                    <a
+                        href={props.linkUrl}
+                        className="relative text-white text-xs font-bold items-center bg-noble-brown box-border caret-transparent inline-flex justify-center max-w-full min-h-14 break-words uppercase w-full px-10 py-2 rounded-[48px] md:text-sm md:w-auto hover:bg-noble-brown-dark"
+                    >
+                        {props.linkText}
+                    </a>
+                )}
             </div>
         </div>
     );
